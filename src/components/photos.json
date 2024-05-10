@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "src": "natural-pic/src/assets/img/imagen1.jpg",
+        "alt": "Landscape 1",
+        "isFavorite": false
+    },
+    {
+        "id": 2,
+        "src": "natural-pic/src/assets/img/imagen1.jpg",
+        "alt": "Landscape 2",
+        "isFavorite": false
+    }
+]
